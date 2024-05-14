@@ -1,0 +1,18 @@
+FULLSCREEN?
+False
+TRAIN OR TEST: (1 = Hint Only Training, 2 = Testing)
+2
+ICON CONDITION (NOT USED BY GOOGLE)
+1
+TRIALS PER BLOCK
+24
+BLOCKS PER SESSION
+100
+ITI (sec)
+1
+TRIAL DURATION (sec)
+30
+RUNTIME (in seconds)
+200000
+TIMEOUT (in seconds)
+5
